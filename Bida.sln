@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bida", "Bida\Bida.csproj", "{37555543-54F5-44CF-951C-AA9E262C99B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bida.DAO", "Bida.DAO\Bida.DAO.csproj", "{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bida.BUS", "Bida.BUS\Bida.BUS.csproj", "{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bida.DTO", "QLHS.DTO\Bida.DTO.csproj", "{E2CB796D-1D9F-488F-9677-71C774CEEAD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37555543-54F5-44CF-951C-AA9E262C99B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37555543-54F5-44CF-951C-AA9E262C99B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37555543-54F5-44CF-951C-AA9E262C99B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37555543-54F5-44CF-951C-AA9E262C99B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2CB796D-1D9F-488F-9677-71C774CEEAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CB796D-1D9F-488F-9677-71C774CEEAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CB796D-1D9F-488F-9677-71C774CEEAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CB796D-1D9F-488F-9677-71C774CEEAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
